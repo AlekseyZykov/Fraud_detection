@@ -60,7 +60,7 @@ Fraud_detection/
 ├── py_scripts/ # Подключаемые модули python      
 ├── py_scripts/download_to_sql.py # Модуль для загрузки в стейджинговые таблицы        
 ├── py_scripts/download_to_dwh.py # Модуль для очистки, преобразования и загрузки данных в dwh       
-├── py_scripts/rep_fraud.py # Модуль для анализа данных и обнаружения fraud транзакций по заданным паттернам      
+├── py_scripts/rep_fraud.py # Модуль для анализа данных и обнаружения fraud транзакций    
 ├── main.py # Основной скрипт запуска процесса       
 └── technical_task.pdf # Подробное техническое задание     
 └── README.md # Этот файл    
